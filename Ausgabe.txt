@@ -1,0 +1,87 @@
+Beispiel 1:
+LIGA - SYSTEM
+Der beste Spieler hat von 1000 Spielen 359-mal gewonnen! Das ist eine Rate von ca. 36 %!
+
+#1 vs #2
+mit einer Wiederholung:
+Der beste Spieler hat von 1000 Spielen 354-mal gewonnen! Das ist eine Rate von ca. 35 %!
+mit fünf Wiederholungen:
+Der beste Spieler hat von 1000 Spielen 564-mal gewonnen! Das ist eine Rate von ca. 56 %!
+
+#1 vs #8
+mit einer Wiederholung:
+Der beste Spieler hat von 1000 Spielen 494-mal gewonnen! Das ist eine Rate von ca. 49 %!
+mit fünf Wiederholungen:
+Der beste Spieler hat von 1000 Spielen 616-mal gewonnen! Das ist eine Rate von ca. 62 %!
+
+Zufallsprinzip
+mit einer Wiederholung:
+Der beste Spieler hat von 1000 Spielen 365-mal gewonnen! Das ist eine Rate von ca. 36 %!
+mit fünf Wiederholungen:
+Der beste Spieler hat von 1000 Spielen 613-mal gewonnen! Das ist eine Rate von ca. 61 %!
+
+Beispiel 2:
+LIGA - SYSTEM
+Der beste Spieler hat von 1000 Spielen 219-mal gewonnen! Das ist eine Rate von ca. 22 %!
+
+#1 vs #2
+mit einer Wiederholung:
+Der beste Spieler hat von 1000 Spielen 275-mal gewonnen! Das ist eine Rate von ca. 28 %!
+mit fünf Wiederholungen:
+Der beste Spieler hat von 1000 Spielen 391-mal gewonnen! Das ist eine Rate von ca. 39 %!
+
+#1 vs #8
+mit einer Wiederholung:
+Der beste Spieler hat von 1000 Spielen 304-mal gewonnen! Das ist eine Rate von ca. 30 %!
+mit fünf Wiederholungen:
+Der beste Spieler hat von 1000 Spielen 361-mal gewonnen! Das ist eine Rate von ca. 36 %!
+
+Zufallsprinzip
+mit einer Wiederholung:
+Der beste Spieler hat von 1000 Spielen 320-mal gewonnen! Das ist eine Rate von ca. 32 %!
+mit fünf Wiederholungen:
+Der beste Spieler hat von 1000 Spielen 355-mal gewonnen! Das ist eine Rate von ca. 36 %!
+
+Beispiel 3:
+LIGA - SYSTEM
+Der beste Spieler hat von 1000 Spielen 330-mal gewonnen! Das ist eine Rate von ca. 33 %!
+
+#1 vs #2
+mit einer Wiederholung:
+Der beste Spieler hat von 1000 Spielen 116-mal gewonnen! Das ist eine Rate von ca. 12 %!
+mit fünf Wiederholungen:
+Der beste Spieler hat von 1000 Spielen 215-mal gewonnen! Das ist eine Rate von ca. 22 %!
+
+#1 vs #8
+mit einer Wiederholung:
+Der beste Spieler hat von 1000 Spielen 111-mal gewonnen! Das ist eine Rate von ca. 11 %!
+mit fünf Wiederholungen:
+Der beste Spieler hat von 1000 Spielen 261-mal gewonnen! Das ist eine Rate von ca. 26 %!
+
+Zufallsprinzip
+mit einer Wiederholung:
+Der beste Spieler hat von 1000 Spielen 229-mal gewonnen! Das ist eine Rate von ca. 23 %!
+mit fünf Wiederholungen:
+Der beste Spieler hat von 1000 Spielen 329-mal gewonnen! Das ist eine Rate von ca. 33 %!
+
+Beispiel 4:
+LIGA - SYSTEM
+Der beste Spieler hat von 1000 Spielen 113-mal gewonnen! Das ist eine Rate von ca. 11 %!
+
+#1 vs #2
+mit einer Wiederholung:
+Der beste Spieler hat von 1000 Spielen 59-mal gewonnen! Das ist eine Rate von ca. 6 %!
+mit fünf Wiederholungen:
+Der beste Spieler hat von 1000 Spielen 68-mal gewonnen! Das ist eine Rate von ca. 7 %!
+
+#1 vs #8
+mit einer Wiederholung:
+Der beste Spieler hat von 1000 Spielen 63-mal gewonnen! Das ist eine Rate von ca. 6 %!
+mit fünf Wiederholungen:
+Der beste Spieler hat von 1000 Spielen 80-mal gewonnen! Das ist eine Rate von ca. 8 %!
+
+Zufallsprinzip
+mit einer Wiederholung:
+Der beste Spieler hat von 1000 Spielen 73-mal gewonnen! Das ist eine Rate von ca. 7 %!
+mit fünf Wiederholungen:
+Der beste Spieler hat von 1000 Spielen 70-mal gewonnen! Das ist eine Rate von ca. 7 %!
